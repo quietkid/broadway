@@ -26,3 +26,27 @@ a {
 .tagline-head {
   background-image: url("resources/the-flatiron-building.jpg");
 }
+
+.info {
+  font-size: 23px;
+}
+
+.info h3 {
+  font-weight: bold;
+}
+
+.info p {
+  font-size: 14px;
+}
+
+.tagline-head {
+  color: white;
+  font-weight: bold;
+}
+
+#bottom-links {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
