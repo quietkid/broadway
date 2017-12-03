@@ -8,3 +8,21 @@ html {
   font-weight: bold;
   color: white
 }
+
+.main-links {
+  background-image: url("resources/the-flatiron-building.jpg");
+  color: white;
+}
+
+a {
+  color:white;
+  }
+
+.sub-head {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.tagline-head {
+  background-image: url("resources/the-flatiron-building.jpg");
+}
